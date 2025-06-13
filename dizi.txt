@@ -80,11 +80,11 @@ http://192.168.1.211:4022/udp/233.50.201.143:5140
 http://192.168.1.211:4022/udp/233.50.201.144:5140
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png",东南卫视
 http://192.168.1.211:4022/udp/233.50.201.146:5140
-#EXTINF:-1 tvg-name="中国蓝直播高清" tvg-logo="https://live.fanmingming.cn/tv/中国蓝直播高清.png",中国蓝直播高清
+#EXTINF:-1 tvg-name="中国蓝直播" tvg-logo="https://live.fanmingming.cn/tv/中国蓝直播.png",中国蓝直播
 http://192.168.1.211:4022/udp/233.50.201.108:5140
-#EXTINF:-1 tvg-name="浙江卫视高清" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视高清.png",浙江卫视高清
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
 http://192.168.1.211:4022/udp/233.50.201.100:5140
-#EXTINF:-1 tvg-name="浙江钱江高清" tvg-logo="https://live.fanmingming.cn/tv/浙江钱江高清.png",浙江钱江高清
+#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://live.fanmingming.cn/tv/浙江钱江.png",浙江钱江
 http://192.168.1.211:4022/udp/233.50.201.132:5140
 #EXTINF:-1 tvg-name="浙江生活高清" tvg-logo="https://live.fanmingming.cn/tv/浙江生活高清.png",浙江生活高清
 http://192.168.1.211:4022/udp/233.50.201.133:5140
@@ -98,7 +98,7 @@ http://192.168.1.211:4022/udp/233.50.201.137:5140
 http://192.168.1.211:4022/udp/233.50.201.138:5140
 #EXTINF:-1 tvg-name="浙江纪录高清" tvg-logo="https://live.fanmingming.cn/tv/浙江纪录高清.png",浙江纪录高清
 http://192.168.1.211:4022/udp/233.50.202.25:5140
-#EXTINF:-1 tvg-name="杭州综合高清" tvg-logo="https://live.fanmingming.cn/tv/杭州综合高清.png",杭州综合高清
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://live.fanmingming.cn/tv/杭州综合.png",杭州综合
 http://192.168.1.211:4022/udp/233.50.201.173:5140
 #EXTINF:-1 tvg-name="杭州明珠高清" tvg-logo="https://live.fanmingming.cn/tv/杭州明珠高清.png",杭州明珠高清
 http://192.168.1.211:4022/udp/233.50.201.174:5140
