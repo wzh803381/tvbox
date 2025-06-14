@@ -15,34 +15,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://live.fanmingming.cn/tv/之江纪录.png" group-title="浙江频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="萧山综合频道" tvg-logo="https://live.fanmingming.cn/tv/萧山综合频道.png" group-title="浙江频道",萧山综合频道
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-name="象山电视台新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/象山电视台新闻综合频道.png" group-title="浙江频道",象山电视台新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-#EXTINF:-1 tvg-name="温州文成新闻频道" tvg-logo="https://live.fanmingming.cn/tv/温州文成新闻频道.png" group-title="浙江频道",温州文成新闻频道
-http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-#EXTINF:-1 tvg-name="绍兴文化影视频道" tvg-logo="https://live.fanmingming.cn/tv/绍兴文化影视频道.png" group-title="浙江频道",绍兴文化影视频道
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 tvg-name="绍兴电视台公共频道" tvg-logo="https://live.fanmingming.cn/tv/绍兴电视台公共频道.png" group-title="浙江频道",绍兴电视台公共频道
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 tvg-name="绍兴新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/绍兴新闻综合频道.png" group-title="浙江频道",绍兴新闻综合频道
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 tvg-name="上虞新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/上虞新闻综合频道.png" group-title="浙江频道",上虞新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-name="上虞新商都频道" tvg-logo="https://live.fanmingming.cn/tv/上虞新商都频道.png" group-title="浙江频道",上虞新商都频道
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-name="龙游生活娱乐频道" tvg-logo="https://live.fanmingming.cn/tv/龙游生活娱乐频道.png" group-title="浙江频道",龙游生活娱乐频道
-https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-#EXTINF:-1 tvg-name="平湖新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/平湖新闻综合频道.png" group-title="浙江频道",平湖新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-#EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://live.fanmingming.cn/tv/青田电视台.png" group-title="浙江频道",青田电视台
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 tvg-name="松阳新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/松阳新闻综合频道.png" group-title="浙江频道",松阳新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-#EXTINF:-1 tvg-name="龙泉新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/龙泉新闻综合频道.png" group-title="浙江频道",龙泉新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 tvg-name="云和新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/云和新闻综合频道.png" group-title="浙江频道",云和新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央卫视频道",CCTV-1 综合
 http://8.138.7.223/tv/hot.php?id=1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央卫视频道",CCTV-2 财经
