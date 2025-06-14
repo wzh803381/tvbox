@@ -31,8 +31,6 @@ http://iptv.wzh3381.cn:4022/udp/233.50.201.182:5140
 http://iptv.wzh3381.cn:4022/udp/233.50.201.168:5140
 #EXTINF:-1 tvg-name="宁波生活" tvg-logo="https://live.fanmingming.cn/tv/宁波生活.png",宁波生活
 http://iptv.wzh3381.cn:4022/udp/233.50.201.178:5140
-#EXTINF:-1 tvg-name="宁波文体" tvg-logo="https://live.fanmingming.cn/tv/宁波文体.png",宁波文体
-http://iptv.wzh3381.cn:4022/udp/233.50.201.179:5140
 #EXTINF:-1 tvg-name="宁波影视" tvg-logo="https://live.fanmingming.cn/tv/宁波影视.png",宁波影视
 http://iptv.wzh3381.cn:4022/udp/233.50.201.180:5140
 #EXTINF:-1 tvg-name="萧山综合" tvg-logo="https://live.fanmingming.cn/tv/萧山综合.png",萧山综合
