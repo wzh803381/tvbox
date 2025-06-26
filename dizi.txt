@@ -15,17 +15,17 @@ http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.cn/tv/浙江经视.png",group-title="地方",浙江经视
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="地方",杭州1综合
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/hztv1.png" group-title="地方",杭州1综合
 http://iptv.wzh3381.cn:4022/udp/233.50.201.173:5140
-#EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="https://epg.112114.xyz/logo/杭州西湖明珠.png" group-title="地方",杭州2明珠
+#EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="https://epg.112114.xyz/logo/hztv2.png" group-title="地方",杭州2明珠
 http://iptv.wzh3381.cn:4022/udp/233.50.201.174:5140
-#EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/杭州生活.png" group-title="地方",杭州3生活
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/hztv3.png" group-title="地方",杭州3生活
 http://iptv.wzh3381.cn:4022/udp/233.50.201.175:5140
-#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/杭州影视.png" group-title="地方",杭州4影视
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/hztv4.png" group-title="地方",杭州4影视
 http://iptv.wzh3381.cn:4022/udp/233.50.201.176:5140
-#EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://epg.112114.xyz/logo/杭州青少.png" group-title="地方",杭州5青少
+#EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://epg.112114.xyz/logo/hztv5.png" group-title="地方",杭州5青少
 http://iptv.wzh3381.cn:4022/udp/233.50.201.177:5140
-#EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="地方",杭州导视
+#EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/hzds.png" group-title="地方",杭州导视
 http://iptv.wzh3381.cn:4022/udp/233.50.201.182:5140
 #EXTINF:-1 tvg-name="临平新闻" tvg-logo="https://epg.112114.xyz/logo/临平新闻.png" group-title="地方",临平新闻
 http://iptv.wzh3381.cn:4022/udp/233.50.202.32:5140
